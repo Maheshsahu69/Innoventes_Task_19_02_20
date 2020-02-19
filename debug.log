@@ -1,0 +1,7 @@
+[0213/004549.679:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0213/015417.520:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0213/224058.452:ERROR:process_info.cc(359)] UncheckedAllocate
+[0213/224113.203:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\DELL 306\AppData\Local\Google\Chrome\User Data\Crashpad\reports\65c6af99-18b9-41b2-ab51-577f6733c57a.dmp: The process cannot access the file because it is being used by another process. (0x20)
+[0218/205316.419:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0218/225411.058:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0218/232628.299:ERROR:crash_report_database_win.cc(428)] unexpected header

@@ -1,0 +1,134 @@
+#outerDivID{
+  border: 1.2px solid #7f7f7f;
+  position: relative;
+  padding: 0 20px;
+  height: 240px;
+  display: flex;
+  flex-wrap: nowrap; 
+  flex-direction: column; 
+  width: 70%;
+}
+
+#btnIncrement{
+  font-size:48px;
+  color:red;
+  border: none;
+  background-color: white;
+  
+}
+
+#btnIncrement:hover{
+  
+  cursor: pointer;
+}
+
+#btnIncrement:active{
+  color: #cdcdb1;
+  text-decoration: none;
+  font-size:48px;
+}
+
+#btnDecreament{
+  font-size:48px;
+  color:#006699;
+  border: none;
+  background-color: white;
+
+}
+
+#btnDecreament:hover{
+  cursor: pointer;
+}
+
+#btnDecreament:active{
+  color: #cdcdb1;
+  font-size:48px;
+  text-decoration: none;
+  
+}
+
+#btnDecreament:focus{outline :none;}
+#btnIncrement:focus{outline :none;}
+
+#btnDecreament:disabled {
+  color: #dddddd;
+  cursor: default;
+}
+
+#btnIncrement:disabled {
+  color: #dddddd;
+  cursor: default;
+}
+
+
+#btnIncrementAdult:disabled {
+  color: #dddddd;
+  cursor: default;
+}
+#btnIncrementAdult:focus{outline :none;}
+
+#btnIncrementAdult{
+  
+  font-size:48px;
+  color:red;
+  border: none;
+  background-color: white;
+  
+}
+
+#btnIncrementAdult:hover{
+  
+  cursor: pointer;
+}
+
+#btnIncrementAdult:active{
+  color: #cdcdb1;
+  text-decoration: none;
+  font-size:48px;
+}
+
+/* btnDecreamentAdult style................*/
+#btnDecreamentAdult{
+  font-size:48px;
+  color:#006699;
+  border: none;
+  background-color: white;
+
+}
+
+#btnDecreamentAdult:hover{
+  cursor: pointer;
+}
+
+#btnDecreamentAdult:active{
+  color: #cdcdb1;
+  font-size:48px;
+  text-decoration: none;
+  
+}
+
+#btnDecreamentAdult:focus{outline :none;}
+
+#btnDecreamentAdult:disabled {
+  color: #dddddd;
+  cursor: default;
+}
+
+
+#TitleDivAdult{
+  width:100%;
+  font-size: 25px;
+  Color:#004d99;
+  
+}
+#TitleDivRoom{
+  width:100%;
+  font-size: 25px;
+  Color:#006699;
+}
+#TitleDivChildren{
+  width:100%;
+  font-size: 25px;
+  Color:#006699;
+}
+
